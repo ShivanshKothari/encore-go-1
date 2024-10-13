@@ -1,6 +1,7 @@
 # REST API Starter
 
-This is a RESTful API Starter with a single Hello World API endpoint.
+This is an API service I created using the Encore Go boilerplate to learn about it.
+Below here is boilerplate text.
 
 ## Developing locally
 
