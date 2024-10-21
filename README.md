@@ -1,7 +1,7 @@
 # REST API Starter
 
 This is an API service I created using the Encore Go boilerplate to learn about it.
-Below here is boilerplate text.
+Below here is boilerplate text
 
 ## Developing locally
 
